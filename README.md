@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# About Me
+## About Me
 
 I am Alyssa Mae San Pedro, passionate about coding and proficient in database management. I excel in solving intricate problems and devising refined solutions. My venture into the tech realm commenced with my enrollment in the BS Computer Science program.
 
