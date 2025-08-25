@@ -14,6 +14,7 @@
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0113012A5F638770AD4933CB394619E4C47952636B380B2D6457B44DA02C3468)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=47AAED730547B90E1E27BB0EF7625C6A65CC08952EC221B5BE5CB294EAEAC890)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e830430773954519848a27b0622151b9)
+- [Introduction to Data Science](https://www.credly.com/badges/54aeea73-0ee0-4bfa-8add-9b8c008d5c47)
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -35,9 +36,19 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Contact me</h2>
-<p><a target="_blank" href="[www.linkedin.com/in/alyssa-mae-san-pedro-0104a3372](https://www.linkedin.com/in/alyssa-mae-san-pedro-0104a3372/)" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="[https://web.facebook.com/alyssa.mae.san.pedro](https://web.facebook.com/alyssa.mae.san.pedro)" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
-<a target="_blank" href="mailto:alyssamae.sanpedro0@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836" alt="gmail" /></a>
+<p style="display: flex; gap: 10px; align-items: center;">
+  <a target="_blank" href="https://www.linkedin.com/in/alyssa-mae-san-pedro-0104a3372/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+
+  <a target="_blank" href="https://web.facebook.com/alyssa.mae.san.pedro" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
+  </a>
+
+  <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=alyssamae.sanpedro0@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836" alt="gmail" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlyssaMaeSanPedro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
