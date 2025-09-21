@@ -10,11 +10,17 @@
 
 ## Certification
 
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=51C9F14644C751BCAB37DCA75C5E39411CB992B4246A1B1FDE7BBA26730805EB)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0113012A5F638770AD4933CB394619E4C47952636B380B2D6457B44DA02C3468)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=47AAED730547B90E1E27BB0EF7625C6A65CC08952EC221B5BE5CB294EAEAC890)
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e830430773954519848a27b0622151b9)
-- [Introduction to Data Science](https://www.credly.com/badges/54aeea73-0ee0-4bfa-8add-9b8c008d5c47)
+| Certificates/Badges | Date | Issued By |
+|------------------------|------|-----------|
+| [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=51C9F14644C751BCAB37DCA75C5E39411CB992B4246A1B1FDE7BBA26730805EB) | 2024 | Oracle |
+| [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0113012A5F638770AD4933CB394619E4C47952636B380B2D6457B44DA02C3468) | 2024 | Oracle |
+| [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=47AAED730547B90E1E27BB0EF7625C6A65CC08952EC221B5BE5CB294EAEAC890) | 2024 | Oracle |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e830430773954519848a27b0622151b9) | 2024 | Cognitive Class (IBM) |
+| [Introduction to Data Science](https://www.credly.com/badges/54aeea73-0ee0-4bfa-8add-9b8c008d5c47) | 2025 | Cisco |
+| [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/a50684b3356f97ae0d45357ebf331311) | 2025 | Coursera |
+| [Data Science Tools](https://www.credly.com/badges/54aeea73-0ee0-4bfa-8add-9b8c008d5c47) | 2025 | Cognitive Class (IBM) |
+| [Getting Started in Google Analytics](https://coursera.org/share/85f42fa4ea0d7d454afa3983590207b9) | 2025 | Coursera |
+| [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/5feb9b83f6c1d86067dd0a5200cc2fb0) | 2025 | Coursera |
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
