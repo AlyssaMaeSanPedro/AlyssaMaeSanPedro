@@ -89,13 +89,13 @@ Hi, I'm Alyssa! I'm a **Computer Science graduate from New Era University (Class
 <sub>Machine Learning for Healthcare</sub>
 </td>
 <td align="center" valign="top">
-<a href="https://www.credly.com/badges/7dcb7f3c-8378-4c79-bcfb-14617c52e693/public_url"><img src="./certs/applied-ds-python-2.webp" width="120" alt="Applied Data Science with Python Level 2" /></a><br/>
+<a href="https://www.credly.com/badges/7dcb7f3c-8378-4c79-bcfb-14617c52e693/public_url"><img src="./certs/applied-ds-python-2-badge.webp" width="120" alt="Applied Data Science with Python Level 2" /></a><br/>
 <sub>Applied Data Science with Python</sub>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
-<a href="https://www.credly.com/badges/f499b05e-986b-42ea-80f9-3afca5de26c7/public_url"><img src="./certs/data-analysis-using-python.webp" width="120" alt="Data Analysis Using Python" /></a><br/>
+<a href="https://www.credly.com/badges/f499b05e-986b-42ea-80f9-3afca5de26c7/public_url"><img src="./certs/data-analysis-using-python-badge.webp" width="120" alt="Data Analysis Using Python" /></a><br/>
 <sub>Data Analysis Using Python</sub>
 </td>
 <td align="center" valign="top">
